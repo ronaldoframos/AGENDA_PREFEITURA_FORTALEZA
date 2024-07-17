@@ -1,0 +1,96 @@
+numero,orgao,sigla,vinculo,tipo_administracao,endereco,telefone,responsavel
+1,gabinete do prefeito,gabpref, ,direta,"Avenida Luciano Carneiro, 2235 - Vila União, Fortaleza - CE, 60410-622",(85) 3488-3434,José Sarto
+2,gabinete do vice-prefeito,gabvice ,,direta,"Rua Deputado Moreira da Rocha, 197, 1º andar - Centro, Fortaleza - CE, 60030-060",(85) 3105-1140,Vice-Prefeito de Fortaleza
+3,procuradoria geral do município,pgm,,direta,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",(85) 3452-8510,Fernanda Maria Pessoa Diógenes
+4,controladoria e ouvidoria geral do município,cgm ,,direta,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",(85) 3452-4567,José da Silva
+5,secretaria municipal de governo,segov,,direta,"Rua São Paulo, 2031 - Centro, Fortaleza - CE, 60050-410",(85) 3105-2266,Renato Lima
+6,secretaria municipal das finanças,sefin,,direta,"Rua Pedro Borges, 1115 - Centro, Fortaleza - CE",(85) 3105-1256,Ricardo Augusto de Araújo Macedo
+7,"secretaria municipal do planejamento, orçamento e gestão",sepog,,direta,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",(85) 3105-1189,Renee Matsui
+8,secretaria municipal da segurança cidadã,sesec,,direta,"Rua Jaime Benevolo, 901 - Dionísio Torres, Fortaleza - CE, 60130-091",(85) 3105-1113,Alberto Bezerra
+9,secretaria municipal da educação,sme,,direta,"Rua Barbosa de Freitas, 2260 - Dionísio Torres, Fortaleza - CE, 60170-020",(85) 3459-6434,Ana Maria Pessoa
+10,secretaria municipal da saúde,sms,,direta,"Av. Domingos Olímpio, 405 - Centro, Fortaleza - CE, 60040-370",(85) 3105-1000,Dr. João Batista Lima
+11,secretaria municipal da infraestrutura,seinf,,direta,"Av. Deputado Paulino Rocha, 1343 - Cajazeiras, Fortaleza - CE, 60864-300",(85) 3452-6928,André Siqueira
+12,secretaria municipal da conservação e serviços públicos,scsp,,direta,"Av. Deputado Paulino Rocha, 1343 - Cajazeiras, Fortaleza - CE, 60864-310",(85) 3452-6924,Carlos Alberto Gomes de Oliveira
+13,secretaria municipal do esporte e lazer,secel,,direta,"Av. Sen. Carlos Jereissati, 100 - Praia de Iracema, Fortaleza - CE, 60060-011",(85) 3105-2222,Ronaldo Borges
+14,secretaria municipal do urbanismo e meio ambiente,seuma,,direta,"Av. Deputado Paulino Rocha, 1343 - Cajazeiras, Fortaleza - CE, 60864-310",(85) 3488-1122,Cláudio Nelson de Oliveira
+15,secretaria municipal do turismo de fortaleza,setfor,,direta,"Rua Senador Pompeu, 350 - Centro, Fortaleza - CE, 60025-200",(85) 3105-1122,Alexandra Cavalcante Maia
+16,"secretaria municipal do trabalho, desenvolvimento social e combate à fome",setra,,direta,"Rua Soriano Albuquerque, 233 - Joaquim Távora, Fortaleza - CE, 60130-160",(85) 3105-3399,Ana Cristina Cavalcante Bezerra
+17,secretaria municipal da cidadania e direitos humanos,scdh ,,direta,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-240",(85) 3105-1973,Sonia Maria Holanda Bezerra
+18,secretaria municipal da cultura de fortaleza,secultfor ,,direta,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-120",(85) 3105-1292,Elder Gomes
+19,secretaria municipal do desenvolvimento econômico,sde ,,direta,"Av. Monsenhor Tabosa, 740 - Praia de Iracema, Fortaleza - CE, 60060-230",(85) 3105-2631,Fernanda Maria Fernandes Pessoa
+20,secretaria municipal do desenvolvimento habitacional de fortaleza,habitafor ,,direta,"Av. Deputado Paulino Rocha, 1343 - Cajazeiras, Fortaleza - CE, 60864-310",(85) 3452-3865,Alexandre Pereira
+21,secretaria regional i,seri,,direta,"Av. Santos Dumont, 7800 - Papicu, Fortaleza - CE, 60190-469",(85) 3452-1001,João da Silva
+22,secretaria regional ii,ser ii ,,direta,"Rua Prof. Juraci Magalhães, 421 - Edson Queiroz, Fortaleza - CE, 60811-300",(85) 3452-6388,Fulano de Tal
+23,secretaria regional iii,ser iii ,,direta,"Av. Jovita Feitosa, 1264 - Parquelândia, Fortaleza - CE, 60455-620",(85) 3105-3120,José da Silva
+24,secretaria regional iv,ser iv ,,direta,"Rua Desembargador Leite Albuquerque, s/n - Edson Queiroz, Fortaleza - CE, 60811-710",(85) 3488-3125,Fernanda Maria Pessoa Diógenes
+25,secretaria regional v ,ser v ,,direta,"Av. Deputado Paulino Rocha, 1343 - Cajazeiras, Fortaleza - CE, 60864-310",(85) 3488-3223,Paulo Henrique da Silva
+26,secretaria regional vi,ser vi ,,direta,"Av. I, 227 - Conjunto Ceará, Fortaleza - CE, 60533-600",(85) 3452-1699,Antônio Carlos
+27,secretaria regional do centro,serce ,,direta,"Rua Major Facundo, 500 - Centro, Fortaleza - CE",(85) 3105-3912,Fulano de Tal
+28,central de licitações da prefeitura de fortaleza,clfor,sepog ,direta,"Rua do Rosário, 77 - Centro, Fortaleza - CE, 60055-090",(85) 3105-8081,José da Silva
+29,guarda municipal de fortaleza,gmf,sesec ,direta,"Rua Padre Francisco Pinto, 575 - Centro, Fortaleza - CE",(85) 3105-3109,Marcelo Silva
+30,departamento municipal de proteção e defesa dos direitos do consumidor,procon,scdh,direta,"Rua Major Facundo, 869 - Centro, Fortaleza - CE, 60025-100",(85) 3452-4567,Fernanda Oliveira
+31,instituto de previdência do município,ipm,sepog,autarquia,"Av. Santos Dumont, 1520 - Aldeota, Fortaleza - CE, 60150-160",(85) 3452-2333,Fernanda Silva
+32,instituto dr. josé frota,ijf,sms,autarquia,"Av. Aguanambi, 251 - José Bonifácio, Fortaleza - CE, 60060-150",(85) 3255-5000,Dr. Antônio José de Oliveira Filho
+33,agência de fiscalização de fortaleza,agefis,gabpref,autarquia,"Rua Pedro I, 282 - Centro, Fortaleza - CE, 60035-100",(85) 3105-1132,José da Silva
+34,instituto de planejamento de fortaleza,iplanfor,gabpref,autarquia,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",(85) 3105-1301,Cláudio Ricardo Gomes de Lima
+35,autarquia municipal de trânsito e cidadania,amc,scsp,autarquia,"Av. Aguanambi, 150 - José Bonifácio, Fortaleza - CE, 60040-130",(85) 3452-4500,Carlos Ribeiro
+36,instituto de pesos e medidas,ipem,scsp,autarquia,"Rua Barbosa de Freitas, 1.095 - Aldeota, Fortaleza - CE, 60170-021",(85) 3457-5698,João da Silva
+37,"autarquia de regulação, fiscalização e controle de serv. púb. de saneamento ambiental",acfor,pgm,autarquia,"Av. Dr. Theberge, 1720 - Jardim América, Fortaleza - CE, 60440-900",(85) 3105-1400,José Maria da Silva
+38,autarquia de urbanismo e paisagismo de fortaleza,urbfor,scsp,autarquia,"Rua José Avelino, 495 - Centro, Fortaleza - CE, 60060-160",(85) 3452-6710,João da Silva
+39,instituto municipal de desenv. de recursos humanos,imparh,sepog,fundacoes,"Rua Deputado Moreira da Rocha, 925 - Centro, Fortaleza - CE, 60035-410",(85) 3105-1282,Maria da Silva
+40,fundação de apoio à gest. de saúde integrada de fortaleza,fagifor,sms,fundacoes,"Av. Borges de Melo, 820 - Fátima, Fortaleza - CE, 60015-550",(85) 3105-1100,Maria da Silva
+41,"fundação de ciência, tecnologia e inovação de fortaleza",citinova,gabpref,fundacoes,"Rua Irmã S/N, Bairro Benfica, Fortaleza-CE",(85) 3105-1299,João da Silva
+42,fundação da criança e da família cidadã,funci,setra,fundacoes,"Av. Filomeno Gomes, 670 - Jacarecanga, Fortaleza - CE, 60010-280",(85) 3105-3450,Maria da Silva
+43,fundação de apoio ao desenvolvimento econômico de fortaleza,fadef,sde,fundacoes,"Av. Monsenhor Tabosa, 1381 - Centro, Fortaleza - CE, 60055-260",(85) 3456-7890,Maria da Silva
+44,empresa de transporte urbano de fortaleza,etufor,scsp,empresa publica,"Av. Borges de Melo, 1630 - Fátima, Fortaleza - CE, 60035-000",(85) 3256-4100,João Silva
+45,companhia de transporte coletivo de fortaleza,ctc,scsp,empresa publica,"Av. Borges de Melo, 260 - Fátima, Fortaleza - CE, 60040-000",(85) 3256-4100,Carlos Rogério Bezerra de Carvalho
+46,fundo municipalde juventude de fortaleza,fmjf,gabpre,fundo,"Rua Deputado Moreira da Rocha, 244 - Centro, Fortaleza - CE, 60025-220",(85) 3252-3594,Ana Maria Soares
+47,fundo municipal de políticas sobre drogas,fmpd,gabpre,fundo,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-140",(85) 3452-1356,José Silva
+48,fundo de aperfeiçoamento da proc. geral do município,fa-pgm,pgm,fundo,"Av. Washington Soares, 999 - Edson Queiroz, Fortaleza - CE, 60811-341",(85) 3456-7890,João da Silva
+49,fundo municipal de educação,fme,sme,fundo,"Rua Barbosa de Freitas, 2676 - Dionísio Torres, Fortaleza - CE, 60170-020",(85) 3459-6856,Maria da Silva
+50,fundo municipal de saúde,fms,sms,fundo,"Av. do Comércio, 100 - Jardim Guanabara, Fortaleza - CE, 60347-035",(85) 3456-7890,Maria da Silva
+51,fundo municipal de assistência social,fmas,setra,fundo,"Av. da Universidade, 2335 - Benfica, Fortaleza - CE, 60020-181",(85) 3105-1442,Maria da Silva
+52,fundo municipal de desenvolvimento econômico,fmds,sde,fundo,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",(85) 3105-3022,João da Silva
+53,fundo municipal do jovem empreendedor,fmje,sde,fundo,"Av. Santos Dumont, 1789 - Aldeota, Fortaleza - CE, 60150-161",(85) 3456-7890,Maria Silva
+54,fundo de defesa do meio ambiente,fundema,seuma,fundo,"Rua Osvaldo Cruz, 01 - Centro, Fortaleza - CE, CEP: 60060-390",(85) 3105-2180,João da Silva
+55,fundo municipal de desenvolvimento urbano,fundurb,seuma,fundo,"Av. Luciano Carneiro, 2235 - Vila União, Fortaleza - CE, 60410-692",(85) 3452-4321,Maria da Silva
+56,fundo municipal de cultura,fmc,secultfor,fundo,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-090",(85) 3105-1293,José da Silva
+57,fundo municipal dos direitos da pessoa idosa,fmdpi,scdh,fundo,"Rua Ildefonso Albano, 2666 - Dionísio Torres, Fortaleza - CE, 60115-000",(85) 3105-1356,Maria da Silva
+58,fundo municipal para promoção dos direitos das pessoas com deficiência,fmdpd,scdh,fundo,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-140",(85) 3105-1155,Ana Maria da Silva
+59,fundo municipal de limpeza urbana,funlimp,scsp,fundo,"Rua Jaime Leonel, 115 - Moura Brasil, Fortaleza - CE, 60140-140",(85) 3452-6565,João da Silva
+60,fundo municipal de habitação de interesse social,fmhis,habitafor,fundo,"Av. Deputado Paulino Rocha, 915 - Cajazeiras, Fortaleza - CE, 60864-310",(85) 3452-2039,Ana Maria Bezerra
+61,fundo municipal de defesa dos direitos da criança e do adolescente,fmdca,funci,fundo,"Rua Major Facundo, 154 - Centro, Fortaleza - CE, 60060-110",(85) 3105-1562,Maria Silva
+62,fundo municipal de defesa dos direitos difusos,fmdd,procon,fundo,"Rua do Rosário, 77 - Centro, Fortaleza - CE, 60060-140",(85) 3105-1140,João da Silva
+63,conselho da cidade de fortaleza,,gabpref,conselho,"Rua Pedro Borges, 20 - Centro, Fortaleza - CE, 60035-110",(85) 3105-1375,Maria da Silva
+64,conselho municipal da juventude,,gabpref,conselho,"Rua Major Facundo, 500, Centro, Fortaleza - CE",(85) 3456-7890,Maria Silva
+65,conselho municipal de políticas sobre drogas,gabpref,,conselho,"Rua Senador Alencar, 1200 - Centro, Fortaleza - CE, 60035-270",(85) 3105-1150,João da Silva
+66,conselho municipal de planejamento participativo,gabpref,,conselho,"Rua Major Facundo, 512 - Centro, Fortaleza - CE, 60025-100",(85) 3105-1000,João da Silva
+67,conselhos escolares,,sme,conselho,"Rua Senador Alencar, 347 - Centro, Fortaleza - CE",(85) 3456-7890,Ana Silva
+68,conselho municipal de educação,cme,sme,conselho,"Rua Barbosa de Freitas, 2260 - Aldeota, Fortaleza - CE, 60170-021",(85) 3105-1246,Maria Silva
+69,conselho municipal de alimentação escolar,cmae,sme,conselho,"Rua Adolfo Herbster, 19 - Centro, Fortaleza - CE, 60035-100",(85) 3105-1421,Maria da Silva
+70,conselho municipal de acompanhamento e controle social do fundo de manutenção e desenvolvimento da educação (fundeb),,,conselho,"Rua Barbosa de Freitas, 2670 - Dionísio Torres, Fortaleza - CE, 60170-022",(85) 3105-4722,Maria da Silva
+71,conselhos locais de saúde,,sms,conselho,"Rua Pereira Filgueiras, 85 - Centro, Fortaleza - CE, 60060-140",(85) 3105-1344,Dr. João da Silva
+72,conselhos regionais de saúde,,sms,conselho,"Rua Pereira Filgueiras, 2020 - Aldeota, Fortaleza - CE, 60160-230",(85) 3101-5096,Dr. José Carlos
+73,conselho municipal de saúde,,sms,conselho,"Rua do Rosário, 83 - Centro, Fortaleza - CE, 60060-010",(85) 3105-1246,Maria da Silva
+74,conselho municipal dos direitos da pessoa com deficiência,,scdh,conselho,"Rua Pedro Borges, 20 - Centro, Fortaleza - CE, 60035-370",(85) 3105-1086,Fernanda Silva
+75,conselho municipal dos direitos da pessoa idosa de fortaleza,,scdh,conselho,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-140",(85) 3105-1390,Ana Maria da Silva
+76,conselho municipal da mulher de fortaleza,,scdh,conselho,"Rua Dom Sebastião Leme, 69 - Centro, Fortaleza - CE, 60060-140",(85) 3105-2516,Maria da Silva
+77,"conselho municipal de promoção dos direitos da população de lésbicas, gays, bissexuais, travestis e transexuais – cmdlgbt",,,conselho,"Rua do Rosário, 77 - Centro, Fortaleza - CE, 60060-210",(85) 3105-1429,Fernanda Pessoa
+78,conselho municipal de meio ambiente,,seuma,conselho,"Rua Pedro I, 1300 - Centro, Fortaleza - CE, 60035-161",(85) 3105-1279,Fernando Pessoa
+79,conselho municipal de desenvolvimento urbano,,seuma,conselho,"Av. Deputado Paulino Rocha, 1343 - Cajazeiras, Fortaleza - CE, 60864-310",(85) 3452-6356,João da Silva
+80,conselho das unidades de conservação de proteção integral e de uso sustentável da sabiaguaba,,,conselho,"Rua dos Tabajaras, 100 - Praia de Sabiaguaba, Fortaleza - CE",(85) 1234-5678,João da Silva
+81,conselho municipal de turismo,,setfor,conselho,"Rua Senador Alencar, 126 - Centro, Fortaleza - CE, 60060-110",(85) 3252-2906,João da Silva
+82,conselho municipal de política cultural,secultfor,,conselho,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-110",(85) 3105-1292,Maria da Silva
+83,conselho municipal de proteção ao patrimônio histórico-cultural,comphic,secultfor,conselho,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60060-110",(85) 3105-1411,Fernanda Lima
+84,conselho municipal de assistência social,cmas,setra,conselho,"Rua Soriano Albuquerque, 230 - Centro, Fortaleza - CE, 60060-160",(85) 3105-3135,Maria da Silva
+85,conselho municipal de segurança alimentar e nutricional,consea fortaleza,setra,conselho,"Rua Pereira Filgueiras, 4 - Centro, Fortaleza - CE, 60060-410",(85) 3105-1400,Maria da Silva
+86,conselho municipal do trabalho de fortaleza,comut fortaleza,setra,conselho,"Av. da Universidade, 2591 - Benfica, Fortaleza - CE, 60020-181",(85) 3105-1717,Fulano de Tal
+87,conselho municipal de habitação popular de fortaleza,,habitafor,conselho,"Rua Major Facundo, 101 - Centro, Fortaleza - CE, CEP: 60060-220",(85) 3105-3299,Maria da Silva
+88,conselho municipal de segurança pública cidadã,cmspc,sesec,conselho,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",(85) 3105-1169,Fernanda Gomes
+89,conselho municipal de proteção e defesa civil,compdec,sesec,conselho,"Rua Oto de Alencar, 215 - Centro, Fortaleza - CE, 60060-020",(85) 3105-2287,Carlos Roberto de Oliveira
+90,conselho municipal de transporte urbano,,etufor,conselho,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, 60025-100",(85) 3452-1234,José da Silva
+91,conselho municipal de usuários do transporte coletivo urbano,,etufor,conselho,"Rua Barão do Rio Branco, 600 - Centro, Fortaleza - CE, 60025-061",(85) 3105-1841,Maria da Silva
+92,conselho municipal de desenvolvimento econômico de fortaleza,,sde,conselho,"Rua Major Facundo, 500 - Centro, Fortaleza - CE, CEP: 60160-110",(85) 3459-6415,Fernanda Santos
+93,conselhos tutelares da criança e adolescentes,,funci,conselho,"Rua Juvenal Galeno, 943 - Benfica, Fortaleza - CE, 60015-010",(85) 3105-3182,Joana Silva
+94,conselho municipal de defesa dos direitos da criança e do adolescente,comdica,func,conselho,"Rua Solon Pinheiro, 915 - Centro, Fortaleza - CE, 60050-040",(85) 3105-1159,Maria da Silva
+95,conselho municipal de defesa do consumidor,cmdc,procon,conselho,"Av. Rocha Lima, 150 - Centro, Fortaleza - CE, 60055-290",(85) 3212-3980,Fernanda Oliveira
